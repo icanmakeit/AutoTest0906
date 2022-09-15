@@ -1,0 +1,1 @@
+INFO     D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py:test_excel_case.py:70 POST 请求: 用例编号：login_001， 用例名称：正常登录

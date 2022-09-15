@@ -1,0 +1,17 @@
+---
+"case_name": "登录成功用例"
+"url": "/token/token"
+"data":
+  username: "13588000002"
+  password: "5c4fcc5add5d087de1e8534189c687f7"
+"expect": '200'
+
+---
+"case_name": "登录失败用例"
+"url": "/token/token"
+"data":
+  username: "1358800000"
+  password: "5c4fcc5add5d087de1e8534189c687f7"
+"expect": '"tag": "松勤教育","code": 300101,"msg": "参数校验异常：手机号码格式错误","data": null,"user": null'
+
+

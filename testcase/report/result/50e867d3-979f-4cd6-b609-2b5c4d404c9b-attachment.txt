@@ -1,0 +1,8 @@
+INFO     D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py:test_excel_case.py:70 POST 请求: 用例编号：login_005， 用例名称：密码错误
+ERROR    AssertUtil:AssertUtil.py:30 不包含或者body是错误的，body is 参数校验异常：length must be between 32 and 2147483647, except_body is {
+    "tag": "松勤教育",
+    "code": 300215,
+    "msg": "密码错误！",
+    "data": null,
+    "user": null
+}

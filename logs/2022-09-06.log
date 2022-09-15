@@ -1,0 +1,14 @@
+2022-09-06 16:47:12,746 D:/Users/pangxunzheng/PycharmProjects/AutoTest0906/utils/LogUtil.py DEBUG this is a debug
+2022-09-06 16:47:26,637 D:/Users/pangxunzheng/PycharmProjects/AutoTest0906/utils/LogUtil.py DEBUG this is a debug
+2022-09-06 17:10:35,720 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py DEBUG this is a debug
+2022-09-06 17:11:13,219 AssertUtil DEBUG this is a debug
+2022-09-06 17:12:02,949 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py DEBUG AssertUtil
+2022-09-06 17:22:01,899 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py DEBUG AssertUtil
+2022-09-06 17:22:20,767 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py DEBUG AssertUtil
+2022-09-06 17:22:56,871 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py DEBUG AssertUtil
+2022-09-06 17:23:29,505 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py DEBUG AssertUtil
+2022-09-06 17:23:42,478 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py DEBUG AssertUtil
+2022-09-06 17:24:05,607 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py DEBUG AssertUtil
+2022-09-06 17:24:16,501 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py DEBUG AssertUtil
+2022-09-06 17:26:29,794 AssertUtil ERROR code error,code is 200, expected_code id 100
+2022-09-06 17:27:07,042 AssertUtil ERROR code error,code is 200, expected_code id 100

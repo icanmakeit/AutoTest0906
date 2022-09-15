@@ -1,0 +1,27 @@
+2022-09-07 16:55:31,806 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求
+2022-09-07 17:14:17,234 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求
+2022-09-07 17:14:17,308 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求
+2022-09-07 17:14:17,396 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求
+2022-09-07 17:14:17,484 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求
+2022-09-07 17:14:17,560 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求
+2022-09-07 17:14:54,801 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求
+2022-09-07 17:14:54,880 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求
+2022-09-07 17:14:54,952 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求
+2022-09-07 17:14:55,029 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求
+2022-09-07 17:14:55,106 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求
+2022-09-07 17:16:32,307 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 正常登录
+2022-09-07 17:16:32,405 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用户名为空
+2022-09-07 17:16:32,481 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 密码为空
+2022-09-07 17:16:32,567 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用户名错误
+2022-09-07 17:16:32,643 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 密码错误
+2022-09-07 17:19:26,443 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_001， 用例名词：正常登录
+2022-09-07 17:19:26,527 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_002， 用例名词：用户名为空
+2022-09-07 17:19:26,604 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_003， 用例名词：密码为空
+2022-09-07 17:19:26,678 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_004， 用例名词：用户名错误
+2022-09-07 17:19:26,751 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_005， 用例名词：密码错误
+2022-09-07 17:51:15,329 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_001， 用例名称：正常登录
+2022-09-07 17:51:15,404 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_002， 用例名称：用户名为空
+2022-09-07 17:51:15,476 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_003， 用例名称：密码为空
+2022-09-07 17:51:15,555 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_004， 用例名称：用户名错误
+2022-09-07 17:51:15,631 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_005， 用例名称：密码错误
+2022-09-07 17:51:15,886 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：， 用例名称：未登录秒杀

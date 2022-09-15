@@ -1,0 +1,15 @@
+BASE:
+  log_level: "debug"
+  log_extension: ".log"
+  test:
+    url: "http://121.41.14.39:2001"
+    case_file: "testdata.xls"
+    case_sheet: 0
+
+
+email:
+  smtpserver: "smtp.qq.com"
+  username: "2456211029@qq.com"
+  password: "fcpdijbdbsyqdiaj"
+  receiver: "pangxunzhen@rongannetworks.com"
+

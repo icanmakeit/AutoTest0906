@@ -1,0 +1,165 @@
+2022-09-15 09:22:14,457 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_001， 用例名称：正常登录
+2022-09-15 09:22:14,555 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_002， 用例名称：用户名为空
+2022-09-15 09:22:14,663 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_003， 用例名称：密码为空
+2022-09-15 09:22:14,755 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_004， 用例名称：用户名错误
+2022-09-15 09:22:14,838 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_005， 用例名称：密码错误
+2022-09-15 09:22:14,839 AssertUtil ERROR 不包含或者body是错误的，body is 参数校验异常：length must be between 32 and 2147483647, except_body is {
+    "tag": "松勤教育",
+    "code": 300215,
+    "msg": "密码错误！",
+    "data": null,
+    "user": null
+}
+2022-09-15 09:22:15,003 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_006， 用例名称：未登录秒杀
+2022-09-15 09:22:15,094 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_007， 用例名称：登录秒杀
+2022-09-15 09:22:15,094 AssertUtil ERROR 不包含或者body是错误的，body is 您还没有登录，请先登录!, except_body is 
+2022-09-15 09:22:46,339 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_001， 用例名称：正常登录
+2022-09-15 09:22:46,437 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_002， 用例名称：用户名为空
+2022-09-15 09:22:46,524 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_003， 用例名称：密码为空
+2022-09-15 09:22:46,635 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_004， 用例名称：用户名错误
+2022-09-15 09:22:46,732 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_005， 用例名称：密码错误
+2022-09-15 09:22:46,732 AssertUtil ERROR 不包含或者body是错误的，body is 参数校验异常：length must be between 32 and 2147483647, except_body is {
+    "tag": "松勤教育",
+    "code": 300215,
+    "msg": "密码错误！",
+    "data": null,
+    "user": null
+}
+2022-09-15 09:22:46,875 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_006， 用例名称：未登录秒杀
+2022-09-15 09:22:46,963 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_007， 用例名称：登录秒杀
+2022-09-15 09:22:46,963 AssertUtil ERROR 不包含或者body是错误的，body is 您还没有登录，请先登录!, except_body is 
+2022-09-15 09:23:45,464 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_001， 用例名称：正常登录
+2022-09-15 09:23:45,553 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_002， 用例名称：用户名为空
+2022-09-15 09:23:45,633 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_003， 用例名称：密码为空
+2022-09-15 09:23:45,722 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_004， 用例名称：用户名错误
+2022-09-15 09:23:45,804 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_005， 用例名称：密码错误
+2022-09-15 09:23:45,804 AssertUtil ERROR 不包含或者body是错误的，body is 参数校验异常：length must be between 32 and 2147483647, except_body is {
+    "tag": "松勤教育",
+    "code": 300215,
+    "msg": "密码错误！",
+    "data": null,
+    "user": null
+}
+2022-09-15 09:23:45,924 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_006， 用例名称：未登录秒杀
+2022-09-15 09:23:46,025 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_007， 用例名称：登录秒杀
+2022-09-15 09:23:46,025 AssertUtil ERROR 不包含或者body是错误的，body is 您还没有登录，请先登录!, except_body is 
+2022-09-15 09:29:06,480 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_001， 用例名称：正常登录
+2022-09-15 09:29:06,566 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_002， 用例名称：用户名为空
+2022-09-15 09:29:06,654 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_003， 用例名称：密码为空
+2022-09-15 09:29:06,759 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_004， 用例名称：用户名错误
+2022-09-15 09:29:06,840 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_005， 用例名称：密码错误
+2022-09-15 09:29:06,840 AssertUtil ERROR 不包含或者body是错误的，body is 参数校验异常：length must be between 32 and 2147483647, except_body is {
+    "tag": "松勤教育",
+    "code": 300215,
+    "msg": "密码错误！",
+    "data": null,
+    "user": null
+}
+2022-09-15 09:29:06,993 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_006， 用例名称：未登录秒杀
+2022-09-15 09:29:07,127 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_007， 用例名称：登录秒杀
+2022-09-15 09:29:07,127 AssertUtil ERROR 不包含或者body是错误的，body is 您还没有登录，请先登录!, except_body is 
+2022-09-15 09:30:14,501 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_001， 用例名称：正常登录
+2022-09-15 09:30:14,580 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_002， 用例名称：用户名为空
+2022-09-15 09:30:14,677 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_003， 用例名称：密码为空
+2022-09-15 09:30:14,796 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_004， 用例名称：用户名错误
+2022-09-15 09:30:14,881 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_005， 用例名称：密码错误
+2022-09-15 09:30:14,881 AssertUtil ERROR 不包含或者body是错误的，body is 参数校验异常：length must be between 32 and 2147483647, except_body is {
+    "tag": "松勤教育",
+    "code": 300215,
+    "msg": "密码错误！",
+    "data": null,
+    "user": null
+}
+2022-09-15 09:30:15,014 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_006， 用例名称：未登录秒杀
+2022-09-15 09:30:15,126 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_007， 用例名称：登录秒杀
+2022-09-15 09:30:15,126 AssertUtil ERROR 不包含或者body是错误的，body is 您还没有登录，请先登录!, except_body is 
+2022-09-15 09:30:51,650 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_001， 用例名称：正常登录
+2022-09-15 09:30:51,739 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_002， 用例名称：用户名为空
+2022-09-15 09:30:51,818 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_003， 用例名称：密码为空
+2022-09-15 09:30:51,916 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_004， 用例名称：用户名错误
+2022-09-15 09:30:52,001 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_005， 用例名称：密码错误
+2022-09-15 09:30:52,001 AssertUtil ERROR 不包含或者body是错误的，body is 参数校验异常：length must be between 32 and 2147483647, except_body is {
+    "tag": "松勤教育",
+    "code": 300215,
+    "msg": "密码错误！",
+    "data": null,
+    "user": null
+}
+2022-09-15 09:30:52,134 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_006， 用例名称：未登录秒杀
+2022-09-15 09:30:52,218 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_007， 用例名称：登录秒杀
+2022-09-15 09:30:52,218 AssertUtil ERROR 不包含或者body是错误的，body is 您还没有登录，请先登录!, except_body is 
+2022-09-15 09:31:23,875 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_001， 用例名称：正常登录
+2022-09-15 09:31:23,965 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_002， 用例名称：用户名为空
+2022-09-15 09:31:24,052 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_003， 用例名称：密码为空
+2022-09-15 09:31:24,161 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_004， 用例名称：用户名错误
+2022-09-15 09:31:24,260 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_005， 用例名称：密码错误
+2022-09-15 09:31:24,261 AssertUtil ERROR 不包含或者body是错误的，body is 参数校验异常：length must be between 32 and 2147483647, except_body is {
+    "tag": "松勤教育",
+    "code": 300215,
+    "msg": "密码错误！",
+    "data": null,
+    "user": null
+}
+2022-09-15 09:31:24,413 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_006， 用例名称：未登录秒杀
+2022-09-15 09:31:24,515 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_007， 用例名称：登录秒杀
+2022-09-15 09:31:24,515 AssertUtil ERROR 不包含或者body是错误的，body is 您还没有登录，请先登录!, except_body is 
+2022-09-15 09:34:50,292 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_001， 用例名称：正常登录
+2022-09-15 09:34:50,386 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_002， 用例名称：用户名为空
+2022-09-15 09:34:50,465 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_003， 用例名称：密码为空
+2022-09-15 09:34:50,570 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_004， 用例名称：用户名错误
+2022-09-15 09:34:50,663 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_005， 用例名称：密码错误
+2022-09-15 09:34:50,663 AssertUtil ERROR 不包含或者body是错误的，body is 参数校验异常：length must be between 32 and 2147483647, except_body is {
+    "tag": "松勤教育",
+    "code": 300215,
+    "msg": "密码错误！",
+    "data": null,
+    "user": null
+}
+2022-09-15 09:34:50,799 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_006， 用例名称：未登录秒杀
+2022-09-15 09:34:50,889 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_007， 用例名称：登录秒杀
+2022-09-15 09:34:50,890 AssertUtil ERROR 不包含或者body是错误的，body is 您还没有登录，请先登录!, except_body is 
+2022-09-15 09:35:01,034 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_001， 用例名称：正常登录
+2022-09-15 09:35:01,133 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_002， 用例名称：用户名为空
+2022-09-15 09:35:01,218 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_003， 用例名称：密码为空
+2022-09-15 09:35:01,299 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_004， 用例名称：用户名错误
+2022-09-15 09:35:01,381 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_005， 用例名称：密码错误
+2022-09-15 09:35:01,382 AssertUtil ERROR 不包含或者body是错误的，body is 参数校验异常：length must be between 32 and 2147483647, except_body is {
+    "tag": "松勤教育",
+    "code": 300215,
+    "msg": "密码错误！",
+    "data": null,
+    "user": null
+}
+2022-09-15 09:35:01,498 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_006， 用例名称：未登录秒杀
+2022-09-15 09:35:01,578 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_007， 用例名称：登录秒杀
+2022-09-15 09:35:01,578 AssertUtil ERROR 不包含或者body是错误的，body is 您还没有登录，请先登录!, except_body is 
+2022-09-15 11:04:56,994 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_001， 用例名称：正常登录
+2022-09-15 11:04:57,085 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_002， 用例名称：用户名为空
+2022-09-15 11:04:57,177 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_003， 用例名称：密码为空
+2022-09-15 11:04:57,287 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_004， 用例名称：用户名错误
+2022-09-15 11:04:57,372 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_005， 用例名称：密码错误
+2022-09-15 11:04:57,373 AssertUtil ERROR 不包含或者body是错误的，body is 参数校验异常：length must be between 32 and 2147483647, except_body is {
+    "tag": "松勤教育",
+    "code": 300215,
+    "msg": "密码错误！",
+    "data": null,
+    "user": null
+}
+2022-09-15 11:04:57,500 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_006， 用例名称：未登录秒杀
+2022-09-15 11:04:57,596 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_007， 用例名称：登录秒杀
+2022-09-15 11:04:57,596 AssertUtil ERROR 不包含或者body是错误的，body is 您还没有登录，请先登录!, except_body is 
+2022-09-15 11:06:16,089 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_001， 用例名称：正常登录
+2022-09-15 11:06:16,180 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_002， 用例名称：用户名为空
+2022-09-15 11:06:16,268 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_003， 用例名称：密码为空
+2022-09-15 11:06:16,361 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_004， 用例名称：用户名错误
+2022-09-15 11:06:16,446 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_005， 用例名称：密码错误
+2022-09-15 11:06:16,446 AssertUtil ERROR 不包含或者body是错误的，body is 参数校验异常：length must be between 32 and 2147483647, except_body is {
+    "tag": "松勤教育",
+    "code": 300215,
+    "msg": "密码错误！",
+    "data": null,
+    "user": null
+}
+2022-09-15 11:06:16,572 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_006， 用例名称：未登录秒杀
+2022-09-15 11:06:16,663 D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py INFO POST 请求: 用例编号：login_007， 用例名称：登录秒杀
+2022-09-15 11:06:16,664 AssertUtil ERROR 不包含或者body是错误的，body is 您还没有登录，请先登录!, except_body is 
