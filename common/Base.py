@@ -1,10 +1,11 @@
 import json
 import logging
 from config.Conf import ConfigYaml
-import re
+import re, os
 import subprocess
 from utils.LogUtil import my_log
 from utils.EmailUtil import SendEmail
+from config import Conf
 
 p_data = "\${(.*)}\$"
 log = my_log()
@@ -36,7 +37,7 @@ def json_parse(data):
 
 
 def allure_report(report_path, report_html):
-    allure_cmd = "allure generate %s -d %s --clean" % (report_path, report_html)
+    allure_cmd = "allure generate %s -o %s --clean" % (report_path, report_html)
     try:
         subprocess.call(allure_cmd, shell=True)
     except:
@@ -64,5 +65,12 @@ def send_mail(report_html_path="", content="", title="测试"):
 
 
 if __name__ == '__main__':
-    print(res_find('{"Authorization": "JWT ${token}$"}'))
-    print(res_sub('{"Authorization": "JWT ${token}$"}', '123'))
+    # print(res_find('{"Authorization": "JWT ${token}$"}'))
+    # print(res_sub('{"Authorization": "JWT ${token}$"}', '123'))
+    report_path = Conf.get_report_path() + os.sep + "result"
+    report_html_path = Conf.get_report_path() + os.sep + "html"
+
+    print(report_path)
+    print(report_html_path)
+    allure_report(report_path, report_html_path)
+    # allure_report("../testcase/report/result", "../report/html")

@@ -1,2 +1,0 @@
-INFO     D:\Users\pangxunzheng\PycharmProjects\AutoTest0906\utils\LogUtil.py:test_excel_case.py:70 POST 请求: 用例编号：login_007， 用例名称：登录秒杀
-ERROR    AssertUtil:AssertUtil.py:30 不包含或者body是错误的，body is 您还没有登录，请先登录!, except_body is

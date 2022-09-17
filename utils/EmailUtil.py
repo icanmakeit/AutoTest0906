@@ -1,6 +1,7 @@
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from config.Conf import ConfigYaml
+from utils.LogUtil import my_log
 import smtplib
 
 
@@ -13,6 +14,7 @@ class SendEmail:
         self.title = title
         self.content = content
         self.file = file
+        self.log = my_log("EmailUtil")
 
     def send_mail(self):
         msg = MIMEMultipart()
@@ -32,6 +34,7 @@ class SendEmail:
         self.smtp = smtplib.SMTP(self.smtp_addr, port=25)
         self.smtp.login(self.username, self.password)
         self.smtp.sendmail(self.username, self.recv, msg.as_string())
+        self.log.info("发送邮件成功")
 
 
 if __name__ == '__main__':

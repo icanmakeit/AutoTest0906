@@ -2,7 +2,7 @@ import allure
 import pytest
 
 
-import config.Conf
+from config import Conf
 from config.Conf import ConfigYaml
 import os
 from common.ExcelData import Data
@@ -97,14 +97,19 @@ class TestExcel:
 
 
 if __name__ == '__main__':
-    # pytest.main(["-s", "test_excel_case.py"])
-    pytest.main(['-s', "test_excel_case.py", "--alluredir", "./report/result"])
+    pytest.main(["-s", "test_excel_case.py"])
+    # pytest.main(["-s", "test_excel_case.py", "--alluredir", "../report/result"])
 
-    report_path = config.Conf.get_report_path() + os.sep + "result"
-    report_html_path = config.Conf.get_report_path() + os.sep + "html"
+    report_path = Conf.get_report_path() + os.sep + "result"
+    report_html_path = Conf.get_report_path() + os.sep + "html"
+
+    print(report_path)
+    print(report_html_path)
 
     Base.allure_report(report_path, report_html_path)
+    # my_log("test_excel_case").info("生成allure报告成功")
 
+    # Base.allure_report("../testcase/report/result", "../report/html")
     # Base.allure_report("./report/result", "./report/html")
     # Base.send_mail(title="接口测试报告结果", content=report_html_path, report_html_path="./allure-report/index.html")
-    Base.send_mail(title="接口测试报告结果", content=report_html_path)
+    # Base.send_mail(title="接口测试报告结果", content=report_html_path)
